@@ -19,13 +19,29 @@ Assim que o download for concluído, os arquivos devem ser extraidos no diretór
 
 Devkit: Disponibilizado no próprio site do RubyInstaller, permite instalar extensões nativas ao projeto.
 
-## Suporte e comandos
+## Suporte e Comandos
 
 * Realizada a instalação das Ferramentas de Instalação, o projeto appResultadosDigitais deve ser sincronizado no diretório ~\Ruby23\devkit da estação de trabalho. (onde "~" é a rais do diretório)
 
 * Para se instalar as gems necessárias, abra o seu terminal e digite o comando bundle install dentro do diretório AppResultadosDigitais ~Ruby23\devkit\appResultadosDigitais>bundle install
 
 * Para executar os testes do projeto, arquivos com nomes finalizados em _spec.rb, o comando "rake spec" deve ser executado no terminal, dentro da pasta do projeto AppResultadosDigitais ~Ruby23\devkit\appResultadosDigitais>rake spec
+
+## Pastas e Diretórios
+
+No projeto de testes, os diterórios de testes estão localizados em:
+
+* Testes da página de [Base de Leads] (https://app-staging.rdstation.com.br/leads)
+
+~\Ruby23\devkit\appResultadosDigitais\spec\views\leads
+
+* Page da página de [Login] (https://app-staging.rdstation.com.br/login)
+
+~\Ruby23\devkit\appResultadosDigitais\spec\views\leadspage
+
+* Page da página de [Base de Leads] (https://app-staging.rdstation.com.br/leads)
+
+~C:\Ruby23\devkit\appResultadosDigitais\spec\views\loginpage
 
 ## Documentação
 
