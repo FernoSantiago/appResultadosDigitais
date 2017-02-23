@@ -53,7 +53,7 @@ Informações de como usar as classes e funções do AppResultadosDigitais na [W
 * [Ruby Instaler](https://rubyinstaller.org/)
 * [Ruby Gems](https://rubygems.org/)
 * [GitHub Rspec](https://github.com/rspec/rspec-rails)
-* [GitHub Team Capybara](https://github.com/teamcapybara/capybara)
+* [GitHub Team Capybara](https://github.com/teamcapybara/capybara#using-capybara-with-rspec)
 
 ## Bugs e Sugestões
 
