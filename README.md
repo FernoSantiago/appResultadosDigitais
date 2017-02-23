@@ -15,15 +15,17 @@ Assim que o download for concluído, execute-o para iniciar a instalação. Siga
 Para se certificar de que ele está funcionando, abra o seu terminal e digite o comando ruby -v. Isso deverá exibir a versão instalada do Ruby.
 
 * [Devkit](https://dl.bintray.com/oneclick/rubyinstaller/DevKit-tdm-32-4.5.2-20111229-1559-sfx.exe)
-Assim que o download for concluído, os arquivos devem ser extraidos no diretório ~\Ruby23\devkit. Esse diretório não existe, então você precisará criá-lo. ("C:\Ruby23\devkit" no windows)
+Assim que o download for concluído, os arquivos devem ser extraidos no diretório ~\Ruby23\devkit. Esse diretório não existe, então você precisará criá-lo. (onde "~" é a rais do diretório)
 
 Devkit: Disponibilizado no próprio site do RubyInstaller, permite instalar extensões nativas ao projeto.
 
-## Suporte a plugins
+## Suporte e comandos
 
-* Realizada a instalação das Ferramentas de Instalação, o projeto appResultadosDigitais deve ser sincronizado no diretório ~\Ruby23\devkit da estação de trabalho. ("C:\Ruby23\devkit" no windows)
+* Realizada a instalação das Ferramentas de Instalação, o projeto appResultadosDigitais deve ser sincronizado no diretório ~\Ruby23\devkit da estação de trabalho. (onde "~" é a rais do diretório)
 
 * Para se instalar as gems necessárias, abra o seu terminal e digite o comando bundle install dentro do diretório AppResultadosDigitais ~Ruby23\devkit\appResultadosDigitais>bundle install
+
+* Para executar os testes do projeto, arquivos com nomes finalizados em _spec.rb, o comando "rake spec" deve ser executado no terminal, dentro da pasta do projeto AppResultadosDigitais ~Ruby23\devkit\appResultadosDigitais>rake spec
 
 ## Documentação
 
