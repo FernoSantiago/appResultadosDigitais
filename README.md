@@ -1,4 +1,4 @@
-# PageObject
+# AppResultadosDigitais
 
 * [GitHub](https://github.com/FernoSantiago/appResultadosDigitais)
 
@@ -45,4 +45,4 @@ Reporte bugs ou faça sugestões utilizando o [Issues/Fórum do Projeto](https:/
 
 ## Copyright and Licença
 
-Copyright (C) 2016 - 2016 [Fernando Santiago](https://github.com/FernoSantiago)
+Copyright (C) 2017 - 2017 [Fernando Santiago](https://github.com/FernoSantiago)
